@@ -1,0 +1,14 @@
+/*****     use of prompt       *****/
+
+.text{
+    margin: 100px;
+    font-size: 50px;
+    text-align: center;
+    color: whitesmoke;
+    background-color: green;
+    box-shadow: 1px 1px 20px 20px yellow;
+    font-weight: bold;
+    padding: 10px;
+    text-transform: uppercase;
+    word-spacing: 20px;
+}
